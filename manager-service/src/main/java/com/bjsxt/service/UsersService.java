@@ -4,5 +4,5 @@ import com.bjsxt.pojo.Users;
 
 public interface UsersService {
 
-    void addUser(Users users);
+    public void addUser(Users users);
 }

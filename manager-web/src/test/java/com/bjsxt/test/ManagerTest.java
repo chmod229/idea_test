@@ -18,8 +18,8 @@ public class ManagerTest {
     @Test
     public void insertUserTest(){
         Users users = new Users();
-        users.setUserage(20);
-        users.setUsername("admin");
+        users.setUserage(22);
+        users.setUsername("张三");
         this.usersMapper.insertUser(users);
     }
 }

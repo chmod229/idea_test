@@ -14,7 +14,7 @@
     <form action="/user/addUser" method="post">
         姓名：<input type="text" name="username"/><br/>
         年龄：<input type="text"  name="userage"><br/>
-        <<input type="submit" value="OKOK">
+        <input type="submit" value="OKOK">
     </form>
 </body>
 </html>
